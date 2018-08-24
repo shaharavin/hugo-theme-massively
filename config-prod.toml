@@ -1,6 +1,6 @@
 languageCode = "en-uk"
 title = "OldStreet.ai"
-baseURL = "https://oldstreet.ai/"
+baseURL = "https://amazing-easley-5a69bf.netlify.com/"
 theme = "../.."
 googleanalytics = "UA-124573011-1"
 #disqusShortname = "hugo-massively"
@@ -10,10 +10,10 @@ googleanalytics = "UA-124573011-1"
   # favicon = "favicon.ico"
 
 # Below parameters can be set to override default post settings
-# [params.posts]
-#     foldername = "post"
-#     pagesize = "6"
-#     featuredpost = "true"
+[params.posts]
+    foldername = "post"
+    pagesize = "6"
+    featuredpost = "false"
 
 [languages]
 [languages.en]
