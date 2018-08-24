@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo --config config-prod.toml"
 
 [context.production.environment]
   HUGO_VERSION = "0.30.2"
