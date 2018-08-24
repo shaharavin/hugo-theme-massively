@@ -10,10 +10,10 @@ theme = "../.."
   # favicon = "favicon.ico"
 
 # Below parameters can be set to override default post settings
-# [params.posts]
-#     foldername = "post"
-#     pagesize = "6"
-#     featuredpost = "true"
+[params.posts]
+    foldername = "post"
+    pagesize = "1"
+    featuredpost = "false"
 
 [languages]
 [languages.en]
